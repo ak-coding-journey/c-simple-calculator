@@ -42,6 +42,7 @@ Result: 50
 
 
 --Learning Goals--
+
 1.Practice with conditional statements (if-else, switch)
 
 2.Understand function usage in C
